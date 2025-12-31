@@ -1,5 +1,14 @@
-import { createApp } from "vue";
-import App from "./App.vue";
+import { VueQueryPlugin } from "@tanstack/vue-query";
+import { RouterProvider } from "@tanstack/vue-router";
+
+import { createApp, h } from "vue";
+import { router } from "./router";
 import "./index.css";
 
-createApp(App).mount("#root");
+const app = createApp(
+  h(RouterProvider, { router }),
+);
+
+app.use(VueQueryPlugin);
+
+app.mount("#root");

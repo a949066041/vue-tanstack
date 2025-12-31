@@ -1,10 +1,10 @@
-# @trapar-waves/vue-tailwind
+# @trapar-waves/vue-tanstack
 
-[![npm version](https://img.shields.io/npm/v/@trapar-waves/vue-tailwind)](https://www.npmjs.com/package/@trapar-waves/vue-tailwind)
-[![npm downloads](https://img.shields.io/npm/dm/@trapar-waves/vue-tailwind)](https://www.npmjs.com/package/@trapar-waves/vue-tailwind)
-[![License](https://img.shields.io/github/license/Trapar-waves/vue-tailwind)](https://github.com/Trapar-waves/vue-tailwind/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/Trapar-waves/vue-tailwind)](https://github.com/Trapar-waves/vue-tailwind/commits/main)
-[![CI Status](https://img.shields.io/github/actions/workflow/status/Trapar-waves/vue-tailwind/release.yml?label=CI)](https://github.com/Trapar-waves/vue-tailwind/actions/workflows/release.yml)
+[![npm version](https://img.shields.io/npm/v/@trapar-waves/vue-tanstack)](https://www.npmjs.com/package/@trapar-waves/vue-tanstack)
+[![npm downloads](https://img.shields.io/npm/dm/@trapar-waves/vue-tanstack)](https://www.npmjs.com/package/@trapar-waves/vue-tanstack)
+[![License](https://img.shields.io/github/license/Trapar-waves/vue-tanstack)](https://github.com/Trapar-waves/vue-tanstack/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/Trapar-waves/vue-tanstack)](https://github.com/Trapar-waves/vue-tanstack/commits/main)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/Trapar-waves/vue-tanstack/release.yml?label=CI)](https://github.com/Trapar-waves/vue-tanstack/actions/workflows/release.yml)
 [![Renovate](https://img.shields.io/badge/renovate-enabled-blue)](https://renovatebot.com/)
 
 [English](../README.md) | [日本語](/readme/README-JP.md) | [Русский язык](/readme/README-RU.md)
@@ -154,6 +154,6 @@ pnpm lint
 
 ## 🔗 链接
 
-- **仓库**: [https://github.com/Trapar-waves/vue-tailwind](https://github.com/Trapar-waves/vue-tailwind)
-- **主页**: [https://github.com/Trapar-waves/vue-tailwind](https://github.com/Trapar-waves/vue-tailwind)
-- **问题**: [https://github.com/Trapar-waves/vue-tailwind/issues](https://github.com/Trapar-waves/vue-tailwind/issues)
+- **仓库**: [https://github.com/Trapar-waves/vue-tanstack](https://github.com/Trapar-waves/vue-tanstack)
+- **主页**: [https://github.com/Trapar-waves/vue-tanstack](https://github.com/Trapar-waves/vue-tanstack)
+- **问题**: [https://github.com/Trapar-waves/vue-tanstack/issues](https://github.com/Trapar-waves/vue-tanstack/issues)
